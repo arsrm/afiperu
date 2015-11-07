@@ -1,0 +1,4 @@
+name = WS niños
+description = Crea los webservices necesarios para el manejo de los niños.
+core = 7.x
+package = AFI

@@ -1,0 +1,31 @@
+#logo img {
+    width: 60px;
+}
+
+.view .views-row{
+	width: 33%;
+	text-align: center;
+	display: inline-block;
+}
+
+.view-creadores .user-picture img{
+	border-radius: 50%;
+}
+
+.flex-direction-nav a{
+	height: 60px;
+}
+
+@media screen and (max-width: 640px){
+	.view .views-row{
+		width: 100%;
+    	margin: 10px 0;
+	}
+
+	#block-views-creadores-block h2,
+	#block-views-blog-block h2,
+	#block-views-noticias-block h2{
+		text-decoration: underline;
+		text-align: center;
+	}
+}
